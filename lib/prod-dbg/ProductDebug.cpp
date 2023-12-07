@@ -19,7 +19,7 @@ void ProductDebug::setupProdDebugEnv(SerialCommand* sCmd)
 
   Serial.println();
   Serial.println("---------------------------------------------");
-  Serial.println("Hello from Wiring Controller!");
+  Serial.println("Hello from Menu System Test!");
   Serial.println("---------------------------------------------");
   Serial.println();
 }
